@@ -21,6 +21,7 @@ Understanding gender specific consumer behavior and predicting future sales tren
 
 The dataset used in this project includes sales records categorized by gender, age, city, and product category. It provides a comprehensive view of consumer purchasing patterns over a period.
 
+Data set source: [Walmart Sales Data](https://efss.qloud.my/index.php/s/WomBYj2Wg4bJpcA)
 ## Machine Learning Models
 
 Several machine learning models are implemented and evaluated in this project:
